@@ -6,10 +6,9 @@
   <groups>
   <run>
   <include name = "Smoke"/>
-   <include name = "Fun.*"/>
-  <exclude name = "Sanity">
-   </exclude>
-   </run>
+   <exclude name = "Regression"/>
+
+  </run>
   </groups>
   
     <classes>
